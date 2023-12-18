@@ -1,0 +1,7 @@
+.hero-wrapper{
+    background-image: url('./assets/foodhero.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+
+}
